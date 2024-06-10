@@ -97,14 +97,12 @@ padding-bottom: 30px;
     color: white;
 }
 .btn{
-    width: 140px;
-    height: 40px;
+    width: 180px;
     border-radius: 20px;
     color: white;
-    padding: 12px;
+    padding:15px;
     background-color: #f21048;
     font-family: 'Courier New', Courier, monospace;
-    font-weight: 900px;;
     border: none;
     font-size: 18PX;
 }
